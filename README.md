@@ -10,11 +10,13 @@ Hinzugefügt wurde:
 - Menü, um obriges einzustellen
 
 Die Schaltung basiert ebenfalls auf dem Originalprojekt, wobei hier einige Änderungen vorgenommen wurden:
-- Der uC (Atmega328p) wird direkt integriert
-- Es gibt nun eine AVR-ISP-Schnittstelle zur Programmierung
-- Der OpAmp wurde durch ein günstigeres Modell ersetzt
-- Es gibt neben dem bisherigen Rundstecker auch einen USB-C Anschluss, der QC2 und QC3 unterstützt.
-- Ein Relais wird eingesetzt, um zwischen Rundstecker und USB-C zu schalten und somit um reverse-current zu verhindern.
+- Der uC (Atmega328p) wird direkt integriert.
+- Es werden drei programmierbare Nutzer-Buttons hinzufügt, z.B. für voreingestellte Temperaturen oder Standby.
+- Über einen Pin kann mit einem Federkontakt der Lötkolben automatisch in den Standy gesetzt werden, wenn er in die Halterung gelegt wird.
+- Es gibt nun eine AVR-ISP-Schnittstelle zur Programmierung.
+- Der OpAmp wurde durch ein günstigeres Modell ersetzt.
+- Es gibt neben dem bisherigen Rundstecker auch einen USB-C Anschluss, der Power Delivery (USB-PD) unterstützt.
+- Ein Kippschalter wird eingesetzt, um zwischen Rundstecker und USB-C zu schalten um somit reverse-current zu verhindern.
 
 ToDo:
 Der gesamte Programmierteil sowie ein Prüfen der Schaltung.
