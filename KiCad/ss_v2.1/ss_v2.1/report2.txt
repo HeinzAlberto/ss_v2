@@ -1,0 +1,657 @@
+Hinweis: Verarbeite Symbol "SW1:SW_TS-1093C-A15_YDI".
+Hinweis: Verarbeite Symbol "J7:PJ-313D-B-SMT_XKB".
+Hinweis: Verarbeite Symbol "R23:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder".
+Hinweis: Verarbeite Symbol "R24:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder".
+Hinweis: Verarbeite Symbol "J6:Connector_IDC:IDC-Header_2x03_P2.54mm_Vertical".
+Hinweis: Verarbeite Symbol "R25:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder".
+Hinweis: Verarbeite Symbol "J5:Connector:FanPinHeader_1x04_P2.54mm_Vertical".
+Hinweis: Verarbeite Symbol "R26:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder".
+Hinweis: Verarbeite Symbol "J4:Connector_IDC:IDC-Header_2x03_P2.54mm_Vertical".
+Hinweis: Verarbeite Symbol "R27:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder".
+Hinweis: Verarbeite Symbol "J2:DC00520A".
+Hinweis: Verarbeite Symbol "R28:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder".
+Hinweis: Verarbeite Symbol "R29:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder".
+Hinweis: Verarbeite Symbol "J1:Connector_Molex:Molex_SL_171971-0008_1x08_P2.54mm_Vertical".
+Hinweis: Verarbeite Symbol "R22:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder".
+Hinweis: Verarbeite Symbol "SW2:SW_TS-1093C-A15_YDI".
+Hinweis: Verarbeite Symbol "SW3:SW_TS-1093C-A15_YDI".
+Hinweis: Verarbeite Symbol "IC1:SOP100P600X180-11N".
+Hinweis: Verarbeite Symbol "SW4:SW_TS-1093C-A15_YDI".
+Hinweis: Verarbeite Symbol "C13:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder".
+Hinweis: Verarbeite Symbol "U1:DQC0010A".
+Hinweis: Verarbeite Symbol "C12:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder".
+Hinweis: Verarbeite Symbol "C11:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder".
+Hinweis: Verarbeite Symbol "C10:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder".
+Hinweis: Verarbeite Symbol "U3:Package_TO_SOT_SMD:SOT-23-5".
+Hinweis: Verarbeite Symbol "C9:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder".
+Hinweis: Verarbeite Symbol "U4:TQFP-32_7x7mm:QFP80P900X900X120-32N".
+Hinweis: Verarbeite Symbol "C8:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder".
+Hinweis: Verarbeite Symbol "R14:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder".
+Hinweis: Verarbeite Symbol "R8:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder".
+Hinweis: Verarbeite Symbol "R7:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder".
+Hinweis: Verarbeite Symbol "R9:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder".
+Hinweis: Verarbeite Symbol "R6:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder".
+Hinweis: Verarbeite Symbol "R10:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder".
+Hinweis: Verarbeite Symbol "R5:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder".
+Hinweis: Verarbeite Symbol "R11:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder".
+Hinweis: Verarbeite Symbol "R4:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder".
+Hinweis: Verarbeite Symbol "R12:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder".
+Hinweis: Verarbeite Symbol "R3:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder".
+Hinweis: Verarbeite Symbol "R13:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder".
+Hinweis: Verarbeite Symbol "R2:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder".
+Hinweis: Verarbeite Symbol "R1:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder".
+Hinweis: Verarbeite Symbol "C1:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder".
+Hinweis: Verarbeite Symbol "Q3:Package_TO_SOT_SMD:SOT-23".
+Hinweis: Verarbeite Symbol "R15:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder".
+Hinweis: Verarbeite Symbol "R16:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder".
+Hinweis: Verarbeite Symbol "Q2:SO-8_IRF741_INF".
+Hinweis: Verarbeite Symbol "R17:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder".
+Hinweis: Verarbeite Symbol "Q1:Package_TO_SOT_SMD:SOT-23".
+Hinweis: Verarbeite Symbol "R18:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder".
+Hinweis: Verarbeite Symbol "L1:IND_NLCV32T_TDK".
+Hinweis: Verarbeite Symbol "R19:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder".
+Hinweis: Verarbeite Symbol "R20:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder".
+Hinweis: Verarbeite Symbol "R21:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder".
+Hinweis: Verarbeite Symbol "J8:CONN12_B-7004_GSW".
+Hinweis: Verarbeite Symbol "C7:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder".
+Hinweis: Verarbeite Symbol "Y1:Crystal:Crystal_HC49-U_Vertical".
+Hinweis: Verarbeite Symbol "C3:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder".
+Hinweis: Verarbeite Symbol "C6:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder".
+Hinweis: Verarbeite Symbol "C5:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder".
+Hinweis: Verarbeite Symbol "C2:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder".
+Hinweis: Verarbeite Symbol "C4:Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder".
+Netz unconnected-(U4-PC4-Pad27) hinzufügen.
+Symbolverknüpfung R17 von  nach /7ae68144-be01-4aae-85ba-bd4ee85be67d aktualisiert.
+R17 Eigenschaften aktualisiert.
+R17 Pin 1 nach Net-(U1-FB) verbunden.
+R17 Pin 2 nach GND verbunden.
+U4 Pin 27 nach unconnected-(U4-PC4-Pad27) verbunden.
+R18 hinzugefügt (Footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder").
+Referenzbezeichner REF** in R18 geändert.
+Wert R18 von R_1206_3216Metric_Pad1.30x1.75mm_HandSolder in 10k geändert.
+Wert R17 von R_1206_3216Metric_Pad1.30x1.75mm_HandSolder in 51k geändert.
+Symbolverknüpfung R18 von  nach /8d95fd4f-8f14-4b74-95c8-f838c9daa1ba aktualisiert.
+R18 Eigenschaften aktualisiert.
+R18 Pin 1 nach +5V verbunden.
+R18 Pin 2 nach pd-cfg verbunden.
+R16 Eigenschaften aktualisiert.
+R15 Pin 1 nach standby verbunden.
+R15 Pin 2 nach GND verbunden.
+Netz unconnected-(U4-PD0-Pad30) hinzufügen.
+R16 hinzugefügt (Footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder").
+Referenzbezeichner REF** in R16 geändert.
+Wert R16 von R_1206_3216Metric_Pad1.30x1.75mm_HandSolder in 270k geändert.
+Symbolverknüpfung R16 von  nach /17c73df0-2805-40a3-89cc-e42629123f8f aktualisiert.
+U4 Pin 29 nach reset verbunden.
+Netz unconnected-(U4-PC5-Pad28) hinzufügen.
+R16 Pin 1 nach +5V verbunden.
+Netz Net-(U1-FB) hinzufügen.
+R16 Pin 2 nach Net-(U1-FB) verbunden.
+U4 Pin 28 nach unconnected-(U4-PC5-Pad28) verbunden.
+R17 hinzugefügt (Footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder").
+Referenzbezeichner REF** in R17 geändert.
+R19 hinzugefügt (Footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder").
+R22 hinzugefügt (Footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder").
+Referenzbezeichner REF** in R21 geändert.
+Wert R21 von R_1206_3216Metric_Pad1.30x1.75mm_HandSolder in 10k geändert.
+Symbolverknüpfung R21 von  nach /957c6a6f-07fb-4a42-8986-360b80f40343 aktualisiert.
+U4 Pin 24 nach u3 verbunden.
+R21 Eigenschaften aktualisiert.
+R21 Pin 1 nach pd-cfg verbunden.
+R21 Pin 2 nach GND verbunden.
+U4 Pin 23 nach sb verbunden.
+R21 hinzugefügt (Footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder").
+Referenzbezeichner REF** in R22 geändert.
+Wert R22 von R_1206_3216Metric_Pad1.30x1.75mm_HandSolder in 1M geändert.
+Symbolverknüpfung R22 von  nach /3d9306ed-9826-4033-8271-e34309bce412 aktualisiert.
+R22 Eigenschaften aktualisiert.
+R22 Pin 1 nach +5V verbunden.
+R22 Pin 2 nach sens verbunden.
+U4 Pin 22 nach unconnected-(U4-ADC7-Pad22) verbunden.
+U4 Pin 26 nach u1 verbunden.
+U4 Pin 25 nach u2 verbunden.
+R20 Pin 2 nach Net-(Q3-G) verbunden.
+R20 Pin 1 nach GND verbunden.
+R20 Eigenschaften aktualisiert.
+Symbolverknüpfung R20 von  nach /0bb319f2-a169-4299-9d58-c4af522e57fe aktualisiert.
+Wert R20 von R_1206_3216Metric_Pad1.30x1.75mm_HandSolder in 10k geändert.
+Referenzbezeichner REF** in R20 geändert.
+R20 hinzugefügt (Footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder").
+R19 Pin 2 nach Net-(Q3-G) verbunden.
+R19 Pin 1 nach bl_ctrl verbunden.
+R19 Eigenschaften aktualisiert.
+Symbolverknüpfung R19 von  nach /1d4ab079-4b76-49c4-b1b1-0470c781e87f aktualisiert.
+Wert R19 von R_1206_3216Metric_Pad1.30x1.75mm_HandSolder in 1k geändert.
+Referenzbezeichner REF** in R19 geändert.
+Wert R15 von R_1206_3216Metric_Pad1.30x1.75mm_HandSolder in 10k geändert.
+R10 Pin 1 nach +5V verbunden.
+R9 Pin 2 nach Net-(J1-Pin_7) verbunden.
+Symbolverknüpfung Y1 von  nach /c5d5f07e-399f-49ac-a6c4-e5f62a8c00e7 aktualisiert.
+R10 hinzugefügt (Footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder").
+Referenzbezeichner REF** in R10 geändert.
+Wert R10 von R_1206_3216Metric_Pad1.30x1.75mm_HandSolder in 10k geändert.
+Wert Y1 von Crystal_HC49-U_Vertical in Crystal geändert.
+Symbolverknüpfung R10 von  nach /7e6a5c3b-a194-4017-a8cf-e9c0ce40f2ec aktualisiert.
+R10 Eigenschaften aktualisiert.
+R9 Pin 1 nach cs verbunden.
+R10 Pin 2 nach u3 verbunden.
+Referenzbezeichner REF** in Y1 geändert.
+R11 hinzugefügt (Footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder").
+Referenzbezeichner REF** in R11 geändert.
+Wert R11 von R_1206_3216Metric_Pad1.30x1.75mm_HandSolder in 1k geändert.
+Symbolverknüpfung R11 von  nach /652c5314-7235-4599-86e4-3f8b12484e7c aktualisiert.
+R11 Eigenschaften aktualisiert.
+R8 Pin 2 nach Net-(J1-Pin_6) verbunden.
+C1 hinzugefügt (Footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder").
+R8 hinzugefügt (Footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder").
+Referenzbezeichner REF** in R8 geändert.
+Wert R8 von R_1206_3216Metric_Pad1.30x1.75mm_HandSolder in 1k geändert.
+Symbolverknüpfung R8 von  nach /83b5e7e5-5992-46ef-ae7b-34ec74c49cf4 aktualisiert.
+R8 Eigenschaften aktualisiert.
+Y1 Pin 2 nach Net-(U4-PB7) verbunden.
+R8 Pin 1 nach dc verbunden.
+R11 Pin 1 nach Net-(Q2-G) verbunden.
+Y1 Pin 1 nach Net-(U4-PB6) verbunden.
+R9 hinzugefügt (Footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder").
+Referenzbezeichner REF** in R9 geändert.
+Wert R9 von R_1206_3216Metric_Pad1.30x1.75mm_HandSolder in 1k geändert.
+Symbolverknüpfung R9 von  nach /27070cbe-f660-4307-96c0-23c06a641801 aktualisiert.
+Y1 Eigenschaften aktualisiert.
+R9 Eigenschaften aktualisiert.
+R14 Eigenschaften aktualisiert.
+R13 Pin 1 nach poti verbunden.
+R13 Pin 2 nach GND verbunden.
+U4 Pin 31 nach unconnected-(U4-PD1-Pad31) verbunden.
+Netz unconnected-(U4-PD1-Pad31) hinzufügen.
+R14 hinzugefügt (Footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder").
+Referenzbezeichner REF** in R14 geändert.
+Wert R14 von R_1206_3216Metric_Pad1.30x1.75mm_HandSolder in 10k geändert.
+Symbolverknüpfung R14 von  nach /372a38a1-05da-45d5-949d-cebb02088814 aktualisiert.
+R13 Eigenschaften aktualisiert.
+R14 Pin 1 nach +5V verbunden.
+R14 Pin 2 nach standby verbunden.
+U4 Pin 30 nach unconnected-(U4-PD0-Pad30) verbunden.
+R15 hinzugefügt (Footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder").
+Referenzbezeichner REF** in R15 geändert.
+R23 hinzugefügt (Footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder").
+Symbolverknüpfung R15 von  nach /5314ba04-ccea-483c-b5db-c2386a78b72b aktualisiert.
+R15 Eigenschaften aktualisiert.
+Symbolverknüpfung R13 von  nach /caa82fb3-33b9-43cc-b704-090ccad82c17 aktualisiert.
+Wert R13 von R_1206_3216Metric_Pad1.30x1.75mm_HandSolder in 1M geändert.
+Referenzbezeichner REF** in R13 geändert.
+R13 hinzugefügt (Footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder").
+Netz unconnected-(U4-PD2-Pad32) hinzufügen.
+U4 Pin 32 nach unconnected-(U4-PD2-Pad32) verbunden.
+R12 Pin 2 nach sb verbunden.
+R12 Pin 1 nach +5V verbunden.
+R12 Eigenschaften aktualisiert.
+Symbolverknüpfung R12 von  nach /3e9458ed-7b90-4190-8823-2b574345fc49 aktualisiert.
+Wert R12 von R_1206_3216Metric_Pad1.30x1.75mm_HandSolder in 10k geändert.
+Referenzbezeichner REF** in R12 geändert.
+R12 hinzugefügt (Footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder").
+Y1 hinzugefügt (Footprint "Crystal:Crystal_HC49-U_Vertical").
+R11 Pin 2 nach +12V verbunden.
+SW4 Pin 1 nach reset verbunden.
+SW3 Pin 2 nach GND verbunden.
+U4 Pin 9 nach sense_usb verbunden.
+SW4 hinzugefügt (Footprint "SW_TS-1093C-A15_YDI").
+Referenzbezeichner REF** in SW4 geändert.
+Wert SW4 von SW_TS-1093C-A15_YDI in TS-1093C-A15 geändert.
+Symbolverknüpfung SW4 von  nach /83439a76-3bda-4e70-b8d0-d527763e79c8 aktualisiert.
+U4 Pin 8 nach Net-(U4-PB7) verbunden.
+SW4 Eigenschaften aktualisiert.
+SW3 Pin 1 nach u3 verbunden.
+SW4 Pin 2 nach GND verbunden.
+U4 Pin 7 nach Net-(U4-PB6) verbunden.
+U1 hinzugefügt (Footprint "DQC0010A").
+Referenzbezeichner REF** in U1 geändert.
+Wert U1 von DQC0010A in TPS62175DQCR geändert.
+Symbolverknüpfung U1 von  nach /e1dd3295-1df6-4203-9213-f40fdde27371 aktualisiert.
+U1 Eigenschaften aktualisiert.
+SW2 Pin 2 nach GND verbunden.
+SW1 Pin 2 nach GND verbunden.
+U4 Pin 12 nach bl_ctrl verbunden.
+SW2 hinzugefügt (Footprint "SW_TS-1093C-A15_YDI").
+Referenzbezeichner REF** in SW2 geändert.
+Wert SW2 von SW_TS-1093C-A15_YDI in TS-1093C-A15 geändert.
+Symbolverknüpfung SW2 von  nach /a3fcf73e-ec2c-4983-99b1-53bf6cd96dc5 aktualisiert.
+SW2 Eigenschaften aktualisiert.
+SW2 Pin 1 nach u2 verbunden.
+U1 Pin 1 nach GND verbunden.
+U4 Pin 11 nach analog_in verbunden.
+SW3 hinzugefügt (Footprint "SW_TS-1093C-A15_YDI").
+Referenzbezeichner REF** in SW3 geändert.
+Wert SW3 von SW_TS-1093C-A15_YDI in TS-1093C-A15 geändert.
+Symbolverknüpfung SW3 von  nach /4c2860e4-28dc-4813-b2db-d425c93b4974 aktualisiert.
+U4 Pin 10 nach poti verbunden.
+SW3 Eigenschaften aktualisiert.
+U3 Pin 4 nach Net-(R26-Pad1) verbunden.
+Referenzbezeichner REF** in U3 geändert.
+Wert U3 von SOT-23-5 in LM321 geändert.
+Symbolverknüpfung U3 von  nach /0d9d5432-ba39-4401-a1c2-2f33b5430d23 aktualisiert.
+U3 Eigenschaften aktualisiert.
+U3 Pin 1 nach Net-(U3-+) verbunden.
+U3 Pin 2 nach GND verbunden.
+U4 Pin 3 nach GND verbunden.
+U3 Pin 3 nach Net-(U3--) verbunden.
+U3 hinzugefügt (Footprint "Package_TO_SOT_SMD:SOT-23-5").
+U3 Pin 5 nach +5V verbunden.
+U4 Pin 2 nach sense_12v verbunden.
+U4 hinzugefügt (Footprint "TQFP-32_7x7mm:QFP80P900X900X120-32N").
+Referenzbezeichner REF** in U4 geändert.
+Wert U4 von QFP80P900X900X120-32N in ATMEGA328P-AU geändert.
+Symbolverknüpfung U4 von  nach /54e0b9cb-0b88-42a8-9ec1-4dedbac42895 aktualisiert.
+U4 Pin 1 nach s_ctrl verbunden.
+SW1 Pin 1 nach u1 verbunden.
+U4 Pin 4 nach +5V verbunden.
+U4 Pin 5 nach GND verbunden.
+U1 Pin 11 nach GND verbunden.
+U1 Pin 10 nach +5V verbunden.
+U1 Pin 9 nach Net-(U1-SW) verbunden.
+U1 Pin 8 nach +5V verbunden.
+U1 Pin 7 nach unconnected-(U1-PG-Pad7) verbunden.
+Netz unconnected-(U1-PG-Pad7) hinzufügen.
+U1 Pin 6 nach GND verbunden.
+U1 Pin 5 nach Net-(U1-FB) verbunden.
+U4 Pin 6 nach +5V verbunden.
+U1 Pin 4 nach unconnected-(U1-NC-Pad4) verbunden.
+Netz unconnected-(U1-NC-Pad4) hinzufügen.
+U1 Pin 3 nach VDC verbunden.
+U1 Pin 2 nach VDC verbunden.
+U4 Pin 19 nach standby verbunden.
+Referenzbezeichner REF** in R25 geändert.
+Wert R25 von R_1206_3216Metric_Pad1.30x1.75mm_HandSolder in 100k geändert.
+Netz unconnected-(U4-AREF-Pad20) hinzufügen.
+Symbolverknüpfung R25 von  nach /f08fa2e0-ee54-4518-b864-3d719686d092 aktualisiert.
+R25 Eigenschaften aktualisiert.
+R25 Pin 1 nach GND verbunden.
+Netz Net-(U3--) hinzufügen.
+R25 Pin 2 nach Net-(U3--) verbunden.
+R25 hinzugefügt (Footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder").
+R26 hinzugefügt (Footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder").
+Referenzbezeichner REF** in R26 geändert.
+Wert R26 von R_1206_3216Metric_Pad1.30x1.75mm_HandSolder in 56k geändert.
+Symbolverknüpfung R26 von  nach /f9522751-6d88-44dd-a82e-ac4cf45e0e81 aktualisiert.
+R26 Eigenschaften aktualisiert.
+U4 Pin 18 nach +5V verbunden.
+Netz Net-(R26-Pad1) hinzufügen.
+R24 hinzugefügt (Footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder").
+U4 Eigenschaften aktualisiert.
+Referenzbezeichner REF** in R23 geändert.
+Wert R23 von R_1206_3216Metric_Pad1.30x1.75mm_HandSolder in 10k geändert.
+Symbolverknüpfung R23 von  nach /66dc7613-6f5f-4752-8379-d009e3d01505 aktualisiert.
+R23 Eigenschaften aktualisiert.
+R23 Pin 1 nach +5V verbunden.
+R23 Pin 2 nach reset verbunden.
+U4 Pin 21 nach GND verbunden.
+R26 Pin 1 nach Net-(R26-Pad1) verbunden.
+Referenzbezeichner REF** in R24 geändert.
+U4 Pin 20 nach unconnected-(U4-AREF-Pad20) verbunden.
+Wert R24 von R_1206_3216Metric_Pad1.30x1.75mm_HandSolder in 1k geändert.
+Symbolverknüpfung R24 von  nach /19f42d8e-7b97-46da-9695-e5765f280104 aktualisiert.
+R24 Eigenschaften aktualisiert.
+R24 Pin 1 nach Net-(U3-+) verbunden.
+R24 Pin 2 nach sens verbunden.
+R29 Pin 1 nach Net-(IC1-VDD) verbunden.
+R28 Pin 1 nach VBUS verbunden.
+R28 Pin 2 nach Net-(IC1-VBUS) verbunden.
+U4 Pin 14 nach cs verbunden.
+R29 hinzugefügt (Footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder").
+Referenzbezeichner REF** in R29 geändert.
+Wert R29 von R_1206_3216Metric_Pad1.30x1.75mm_HandSolder in 1k geändert.
+Symbolverknüpfung R29 von  nach /359f145b-7fc0-4e40-888d-b06d7f57757e aktualisiert.
+R29 Eigenschaften aktualisiert.
+R28 Eigenschaften aktualisiert.
+R29 Pin 2 nach VBUS verbunden.
+U4 Pin 13 nach dc verbunden.
+SW1 hinzugefügt (Footprint "SW_TS-1093C-A15_YDI").
+Referenzbezeichner REF** in SW1 geändert.
+Wert SW1 von SW_TS-1093C-A15_YDI in TS-1093C-A15 geändert.
+Symbolverknüpfung SW1 von  nach /65a8dd18-8399-47f8-82fe-1913048202fc aktualisiert.
+SW1 Eigenschaften aktualisiert.
+Netz unconnected-(U4-ADC7-Pad22) hinzufügen.
+Symbolverknüpfung R28 von  nach /6e72446e-f544-4b4c-b582-c62dc1aff4b4 aktualisiert.
+Wert R28 von R_1206_3216Metric_Pad1.30x1.75mm_HandSolder in 10k geändert.
+Referenzbezeichner REF** in R28 geändert.
+R28 hinzugefügt (Footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder").
+U4 Pin 15 nach mois verbunden.
+R27 Pin 2 nach Net-(R26-Pad1) verbunden.
+R27 Pin 1 nach analog_in verbunden.
+R27 Eigenschaften aktualisiert.
+U4 Pin 16 nach miso verbunden.
+Symbolverknüpfung R27 von  nach /e5ad9d36-4f9f-4852-9455-0aad34eadaff aktualisiert.
+Wert R27 von R_1206_3216Metric_Pad1.30x1.75mm_HandSolder in 1k geändert.
+Referenzbezeichner REF** in R27 geändert.
+R27 hinzugefügt (Footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder").
+U4 Pin 17 nach sck verbunden.
+R26 Pin 2 nach Net-(U3--) verbunden.
+IC1 Pin 3 nach GND verbunden.
+C13 Pin 1 nach Net-(IC1-VDD) verbunden.
+C13 Pin 2 nach GND verbunden.
+IC1 hinzugefügt (Footprint "SOP100P600X180-11N").
+Referenzbezeichner IC** in IC1 geändert.
+Wert IC1 von SOP100P600X180-11N in CH224K geändert.
+Symbolverknüpfung IC1 von  nach /1e3282ea-4c64-4da3-a28f-2a7e23b3db92 aktualisiert.
+IC1 Eigenschaften aktualisiert.
+IC1 Pin 1 nach Net-(IC1-VDD) verbunden.
+IC1 Pin 2 nach GND verbunden.
+Netz Net-(IC1-VDD) hinzufügen.
+Netz dp hinzufügen.
+IC1 Pin 4 nach dp verbunden.
+Netz dm hinzufügen.
+IC1 Pin 5 nach dm verbunden.
+IC1 Pin 6 nach cc1 verbunden.
+IC1 Pin 7 nach cc2 verbunden.
+Netz Net-(IC1-VBUS) hinzufügen.
+IC1 Pin 8 nach Net-(IC1-VBUS) verbunden.
+Symbolverknüpfung C12 von  nach /05b538df-7f25-4dc8-85c8-4cfac3218f00 aktualisiert.
+Wert C11 von R_1206_3216Metric_Pad1.30x1.75mm_HandSolder in 100n geändert.
+Symbolverknüpfung C11 von  nach /81a7c767-18ae-4a7c-b5d0-68580ea9b1f1 aktualisiert.
+C11 Eigenschaften aktualisiert.
+C11 Pin 1 nach GND verbunden.
+C11 Pin 2 nach analog_in verbunden.
+C12 hinzugefügt (Footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder").
+Referenzbezeichner REF** in C12 geändert.
+Wert C12 von R_1206_3216Metric_Pad1.30x1.75mm_HandSolder in 100n geändert.
+Netz pd-cfg hinzufügen.
+C12 Eigenschaften aktualisiert.
+C12 Pin 1 nach GND verbunden.
+C12 Pin 2 nach +5V verbunden.
+C13 hinzugefügt (Footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder").
+Referenzbezeichner REF** in C13 geändert.
+Wert C13 von R_1206_3216Metric_Pad1.30x1.75mm_HandSolder in 1u geändert.
+Symbolverknüpfung C13 von  nach /cbc453b1-1df7-4592-afb9-0c3b0d20fae2 aktualisiert.
+C13 Eigenschaften aktualisiert.
+J2 Eigenschaften aktualisiert.
+J1 Pin 6 nach Net-(J1-Pin_6) verbunden.
+Netz Net-(J1-Pin_7) hinzufügen.
+J1 Pin 7 nach Net-(J1-Pin_7) verbunden.
+Netz Net-(J1-Pin_8) hinzufügen.
+J1 Pin 8 nach Net-(J1-Pin_8) verbunden.
+J2 hinzugefügt (Footprint "DC00520A").
+Referenzbezeichner J** in J2 geändert.
+Wert J2 von DC00520A in DC-005-20A geändert.
+Symbolverknüpfung J2 von  nach /0900a351-6f33-45a2-9e64-aa955a75176e aktualisiert.
+Netz Net-(J1-Pin_6) hinzufügen.
+J2 Pin 1 nach +12V verbunden.
+J2 Pin 2 nach GND verbunden.
+J2 Pin 3 nach GND verbunden.
+J4 hinzugefügt (Footprint "Connector_IDC:IDC-Header_2x03_P2.54mm_Vertical").
+Referenzbezeichner REF** in J4 geändert.
+Wert J4 von IDC-Header_2x03_P2.54mm_Vertical in Conn_02x03_Top_Bottom geändert.
+Symbolverknüpfung J4 von  nach /b8025169-e128-43a5-aa34-f5d2870f4190 aktualisiert.
+J4 Eigenschaften aktualisiert.
+Symbolverknüpfung J1 von  nach /0442e453-5c91-4885-bab8-bf2a17bcbcd2 aktualisiert.
+IC1 Pin 9 nach pd-cfg verbunden.
+Netz unconnected-(IC1-PG-Pad10) hinzufügen.
+IC1 Pin 10 nach unconnected-(IC1-PG-Pad10) verbunden.
+Netz unconnected-(IC1-GND-Pad11) hinzufügen.
+IC1 Pin 11 nach unconnected-(IC1-GND-Pad11) verbunden.
+J1 hinzugefügt (Footprint "Connector_Molex:Molex_SL_171971-0008_1x08_P2.54mm_Vertical").
+Referenzbezeichner REF** in J1 geändert.
+Wert J1 von Molex_SL_171971-0008_1x08_P2.54mm_Vertical in Conn_01x08_Pin geändert.
+Referenzbezeichner REF** in C11 geändert.
+J1 Eigenschaften aktualisiert.
+J1 Pin 1 nach GND verbunden.
+J1 Pin 2 nach bl verbunden.
+J1 Pin 3 nach +5V verbunden.
+Netz Net-(J1-Pin_4) hinzufügen.
+J1 Pin 4 nach Net-(J1-Pin_4) verbunden.
+Netz Net-(J1-Pin_5) hinzufügen.
+J1 Pin 5 nach Net-(J1-Pin_5) verbunden.
+C5 hinzugefügt (Footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder").
+C3 Pin 1 nach GND verbunden.
+C3 Pin 2 nach cc1 verbunden.
+C4 hinzugefügt (Footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder").
+Referenzbezeichner REF** in C4 geändert.
+Wert C4 von R_1206_3216Metric_Pad1.30x1.75mm_HandSolder in 330p geändert.
+Symbolverknüpfung C4 von  nach /7f0e6613-173c-4fb8-a80a-371f58dff298 aktualisiert.
+C4 Eigenschaften aktualisiert.
+C4 Pin 1 nach GND verbunden.
+C4 Pin 2 nach cc2 verbunden.
+C3 Eigenschaften aktualisiert.
+Referenzbezeichner REF** in C5 geändert.
+Wert C5 von R_1206_3216Metric_Pad1.30x1.75mm_HandSolder in 10u geändert.
+Symbolverknüpfung C5 von  nach /e9543b11-4a7b-496c-b8be-1f4b3177adb2 aktualisiert.
+C5 Eigenschaften aktualisiert.
+C5 Pin 1 nach GND verbunden.
+C5 Pin 2 nach +5V verbunden.
+C6 hinzugefügt (Footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder").
+Referenzbezeichner REF** in C6 geändert.
+Wert C2 von R_1206_3216Metric_Pad1.30x1.75mm_HandSolder in 100n geändert.
+Referenzbezeichner REF** in C1 geändert.
+Wert C1 von R_1206_3216Metric_Pad1.30x1.75mm_HandSolder in 100n geändert.
+Symbolverknüpfung C1 von  nach /7805d30f-2c1b-44cc-96db-40e41de1a9da aktualisiert.
+C1 Eigenschaften aktualisiert.
+C1 Pin 1 nach GND verbunden.
+C1 Pin 2 nach +5V verbunden.
+C2 hinzugefügt (Footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder").
+Referenzbezeichner REF** in C2 geändert.
+Wert C6 von R_1206_3216Metric_Pad1.30x1.75mm_HandSolder in 10u geändert.
+Symbolverknüpfung C2 von  nach /b770ee6d-2e47-40db-b1a0-11abefe4ceec aktualisiert.
+C2 Eigenschaften aktualisiert.
+C2 Pin 1 nach GND verbunden.
+C2 Pin 2 nach VBUS verbunden.
+C3 hinzugefügt (Footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder").
+Referenzbezeichner REF** in C3 geändert.
+Wert C3 von R_1206_3216Metric_Pad1.30x1.75mm_HandSolder in 330p geändert.
+Symbolverknüpfung C3 von  nach /48fb3533-24e0-4bcc-a18d-e6dda8bb1453 aktualisiert.
+C10 hinzugefügt (Footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder").
+C8 Pin 2 nach Net-(U4-PB6) verbunden.
+C9 hinzugefügt (Footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder").
+Referenzbezeichner REF** in C9 geändert.
+Wert C9 von R_1206_3216Metric_Pad1.30x1.75mm_HandSolder in 22p geändert.
+Symbolverknüpfung C9 von  nach /47e7af46-184b-4b5d-99a4-aec2231401e5 aktualisiert.
+C9 Eigenschaften aktualisiert.
+C9 Pin 1 nach GND verbunden.
+Netz Net-(U4-PB7) hinzufügen.
+C9 Pin 2 nach Net-(U4-PB7) verbunden.
+Netz Net-(U4-PB6) hinzufügen.
+Referenzbezeichner REF** in C10 geändert.
+Wert C10 von R_1206_3216Metric_Pad1.30x1.75mm_HandSolder in 100n geändert.
+Symbolverknüpfung C10 von  nach /98a93818-d3e7-46e3-a872-315035eecca3 aktualisiert.
+C10 Eigenschaften aktualisiert.
+C10 Pin 1 nach GND verbunden.
+Netz Net-(U3-+) hinzufügen.
+C10 Pin 2 nach Net-(U3-+) verbunden.
+C11 hinzugefügt (Footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder").
+C7 Eigenschaften aktualisiert.
+Symbolverknüpfung C6 von  nach /334bc59e-ac32-498a-802d-6e7ee3f96569 aktualisiert.
+C6 Eigenschaften aktualisiert.
+C6 Pin 1 nach GND verbunden.
+C6 Pin 2 nach +5V verbunden.
+C7 hinzugefügt (Footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder").
+Referenzbezeichner REF** in C7 geändert.
+Wert C7 von R_1206_3216Metric_Pad1.30x1.75mm_HandSolder in 10u geändert.
+Symbolverknüpfung C7 von  nach /f8502e95-4cd2-42d5-931d-89d07d23f4e1 aktualisiert.
+R7 Pin 1 nach +5V verbunden.
+C7 Pin 1 nach GND verbunden.
+C7 Pin 2 nach +5V verbunden.
+C8 hinzugefügt (Footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder").
+Referenzbezeichner REF** in C8 geändert.
+Wert C8 von R_1206_3216Metric_Pad1.30x1.75mm_HandSolder in 22p geändert.
+Symbolverknüpfung C8 von  nach /1f851b23-fa07-40a0-a4a2-922ed9239156 aktualisiert.
+C8 Eigenschaften aktualisiert.
+C8 Pin 1 nach GND verbunden.
+Q3 Pin 3 nach +5V verbunden.
+Q2 Pin 7 nach output_power verbunden.
+Q2 Pin 8 nach output_power verbunden.
+Q3 hinzugefügt (Footprint "Package_TO_SOT_SMD:SOT-23").
+Referenzbezeichner REF** in Q3 geändert.
+Wert Q3 von SOT-23 in BSN20 geändert.
+Symbolverknüpfung Q3 von  nach /881231dc-2f75-47ba-a666-7d34e6728aca aktualisiert.
+Q3 Eigenschaften aktualisiert.
+Q3 Pin 1 nach Net-(Q3-G) verbunden.
+Q3 Pin 2 nach bl verbunden.
+Q2 Pin 6 nach output_power verbunden.
+R1 hinzugefügt (Footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder").
+Referenzbezeichner REF** in R1 geändert.
+Wert R1 von R_1206_3216Metric_Pad1.30x1.75mm_HandSolder in 10k geändert.
+Symbolverknüpfung R1 von  nach /9492370a-3db0-4a60-b4d8-1f57e29d5f89 aktualisiert.
+R1 Eigenschaften aktualisiert.
+R1 Pin 1 nach +5V verbunden.
+R1 Pin 2 nach u1 verbunden.
+R2 hinzugefügt (Footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder").
+Referenzbezeichner REF** in R2 geändert.
+Referenzbezeichner REF** in Q2 geändert.
+Q1 hinzugefügt (Footprint "Package_TO_SOT_SMD:SOT-23").
+Referenzbezeichner REF** in Q1 geändert.
+Wert Q1 von SOT-23 in BSN20 geändert.
+Symbolverknüpfung Q1 von  nach /364c9cc1-d75f-4268-ac9c-6dfe1e99c741 aktualisiert.
+Q1 Eigenschaften aktualisiert.
+Q1 Pin 1 nach Net-(Q1-G) verbunden.
+Q1 Pin 2 nach GND verbunden.
+Q1 Pin 3 nach +12V verbunden.
+Q2 hinzugefügt (Footprint "SO-8_IRF741_INF").
+Wert R2 von R_1206_3216Metric_Pad1.30x1.75mm_HandSolder in 1k geändert.
+Wert Q2 von SO-8_IRF741_INF in IRF7416TRPBF geändert.
+Symbolverknüpfung Q2 von  nach /71fee9ef-dca7-43a5-8325-99afbcb8799e aktualisiert.
+Q2 Eigenschaften aktualisiert.
+Q2 Pin 1 nach +12V verbunden.
+Q2 Pin 2 nach +12V verbunden.
+Q2 Pin 3 nach +12V verbunden.
+Q2 Pin 4 nach Net-(Q2-G) verbunden.
+Q2 Pin 5 nach output_power verbunden.
+Symbolverknüpfung R6 von  nach /90b5ea00-f45b-4b3b-87bc-4ad40c825a8c aktualisiert.
+Referenzbezeichner REF** in R5 geändert.
+Wert R5 von R_1206_3216Metric_Pad1.30x1.75mm_HandSolder in 10k geändert.
+Symbolverknüpfung R5 von  nach /5dce2ced-ed62-405c-b146-ff77fdd53113 aktualisiert.
+R5 Eigenschaften aktualisiert.
+R5 Pin 1 nach GND verbunden.
+R5 Pin 2 nach Net-(Q1-G) verbunden.
+R6 hinzugefügt (Footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder").
+Referenzbezeichner REF** in R6 geändert.
+Wert R6 von R_1206_3216Metric_Pad1.30x1.75mm_HandSolder in 1k geändert.
+R5 hinzugefügt (Footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder").
+R6 Eigenschaften aktualisiert.
+R6 Pin 1 nach mosi verbunden.
+R6 Pin 2 nach Net-(J1-Pin_5) verbunden.
+R7 hinzugefügt (Footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder").
+Referenzbezeichner REF** in R7 geändert.
+Wert R7 von R_1206_3216Metric_Pad1.30x1.75mm_HandSolder in 10k geändert.
+Symbolverknüpfung R7 von  nach /66cbc6cb-6a1f-4435-bfa0-cb732f9553b2 aktualisiert.
+R7 Eigenschaften aktualisiert.
+R7 Pin 2 nach u2 verbunden.
+R3 Pin 1 nach Net-(Q1-G) verbunden.
+Symbolverknüpfung R2 von  nach /01d64ece-0598-4e08-8348-63caf319faa9 aktualisiert.
+R2 Eigenschaften aktualisiert.
+R2 Pin 1 nach sck verbunden.
+R2 Pin 2 nach Net-(J1-Pin_4) verbunden.
+R3 hinzugefügt (Footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder").
+Referenzbezeichner REF** in R3 geändert.
+Wert R3 von R_1206_3216Metric_Pad1.30x1.75mm_HandSolder in 1k geändert.
+Symbolverknüpfung R3 von  nach /3a65f0fe-04a5-4362-9d83-2a49577c69aa aktualisiert.
+R3 Eigenschaften aktualisiert.
+J4 Pin 2 nach VDC verbunden.
+R3 Pin 2 nach s_ctrl verbunden.
+R4 hinzugefügt (Footprint "Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder").
+Referenzbezeichner REF** in R4 geändert.
+Wert R4 von R_1206_3216Metric_Pad1.30x1.75mm_HandSolder in 1k geändert.
+Symbolverknüpfung R4 von  nach /a55bc506-54c5-4a37-b41f-512d1d6a20e8 aktualisiert.
+R4 Eigenschaften aktualisiert.
+R4 Pin 1 nach +5V verbunden.
+R4 Pin 2 nach Net-(J1-Pin_8) verbunden.
+J7 Eigenschaften aktualisiert.
+J6 Pin 2 nach sck verbunden.
+J6 Pin 3 nach reset verbunden.
+J6 Pin 4 nach GND verbunden.
+J6 Pin 5 nach mosi verbunden.
+J6 Pin 6 nach +5V verbunden.
+J7 hinzugefügt (Footprint "PJ-313D-B-SMT_XKB").
+Referenzbezeichner REF** in J7 geändert.
+Wert J7 von PJ-313D-B-SMT_XKB in PJ-313D-B-SMT geändert.
+Symbolverknüpfung J7 von  nach /54737c57-373b-4b2b-98a7-3bc4d6b70908 aktualisiert.
+J6 Pin 1 nach miso verbunden.
+J7 Pin 1A nach GND verbunden.
+J7 Pin 1B nach GND verbunden.
+J7 Pin 2A nach output_power verbunden.
+J7 Pin 2B nach output_power verbunden.
+J7 Pin 3A nach sens verbunden.
+J7 Pin 3B nach sens verbunden.
+J8 hinzugefügt (Footprint "CONN12_B-7004_GSW").
+Referenzbezeichner REF** in J8 geändert.
+Wert J8 von CONN12_B-7004_GSW in GT-USB-7004 geändert.
+J5 Eigenschaften aktualisiert.
+J4 Pin 1 nach VBUS verbunden.
+J4 Pin 3 nach +12V verbunden.
+J4 Pin 4 nach sense_usb verbunden.
+J4 Pin 5 nach +5V verbunden.
+J4 Pin 6 nach sense_12v verbunden.
+J5 hinzugefügt (Footprint "Connector:FanPinHeader_1x04_P2.54mm_Vertical").
+Referenzbezeichner REF** in J5 geändert.
+Wert J5 von FanPinHeader_1x04_P2.54mm_Vertical in Conn_01x04 geändert.
+Symbolverknüpfung J5 von  nach /eccd7a53-2905-49e7-85d7-5076b7284962 aktualisiert.
+Netz Net-(U1-SW) hinzufügen.
+J5 Pin 1 nach GND verbunden.
+J5 Pin 2 nach poti verbunden.
+J5 Pin 3 nach sb verbunden.
+J5 Pin 4 nach +5V verbunden.
+J6 hinzugefügt (Footprint "Connector_IDC:IDC-Header_2x03_P2.54mm_Vertical").
+Referenzbezeichner REF** in J6 geändert.
+Wert J6 von IDC-Header_2x03_P2.54mm_Vertical in Conn_02x03_Counter_Clockwise geändert.
+Symbolverknüpfung J6 von  nach /b39e3462-b219-4999-9701-ad3137c62a80 aktualisiert.
+J6 Eigenschaften aktualisiert.
+L1 Pin 2 nach Net-(U1-SW) verbunden.
+L1 hinzugefügt (Footprint "IND_NLCV32T_TDK").
+Referenzbezeichner REF** in L1 geändert.
+Wert L1 von IND_NLCV32T_TDK in 10u geändert.
+Symbolverknüpfung L1 von  nach /a6118cc3-39ed-4654-a961-657cb32948df aktualisiert.
+L1 Eigenschaften aktualisiert.
+L1 Pin 1 nach +5V verbunden.
+J8 Eigenschaften aktualisiert.
+Symbolverknüpfung J8 von  nach /5ff4f302-2384-4afd-b26e-4d8f4751c2bf aktualisiert.
+Warnung: Kein Netz für Symbol J8 Pin 2 gefunden.
+Warnung: Kein Netz für Symbol J8 Pin 20 gefunden.
+Warnung: Kein Netz für Symbol U1 Pin V gefunden.
+Warnung: Kein Netz für Symbol U1 Pin V gefunden.
+Warnung: Kein Netz für Symbol U1 Pin V gefunden.
+Warnung: Kein Netz für Symbol J8 Pin 1 gefunden.
+Warnung: Kein Netz für Symbol J8 Pin 18 gefunden.
+Warnung: Kein Netz für Symbol SW1 Pin 4 gefunden.
+Warnung: Kein Netz für Symbol SW4 Pin 3 gefunden.
+Warnung: Kein Netz für Symbol SW4 Pin 4 gefunden.
+Warnung: Via mit unbekannten Netz (sda) verbunden.
+Warnung: Via mit unbekannten Netz (sda) verbunden.
+Warnung: Via mit unbekannten Netz (unconnected-(U1-PD0-Pad30)) verbunden.
+Warnung: Via mit unbekannten Netz (unconnected-(U1-PD0-Pad30)) verbunden.
+Warnung: Via mit unbekannten Netz (unconnected-(U1-PD1-Pad31)) verbunden.
+Warnung: Kein Netz für Symbol J8 Pin 9 gefunden.
+Warnung: Kein Netz für Symbol SW1 Pin 3 gefunden.
+Warnung: Kein Netz für Symbol J8 Pin 16 gefunden.
+Warnung: Kein Netz für Symbol J8 Pin 15 gefunden.
+Warnung: Kein Netz für Symbol J8 Pin 14 gefunden.
+Warnung: Kein Netz für Symbol J8 Pin 3 gefunden.
+Warnung: Kein Netz für Symbol J8 Pin 13 gefunden.
+Warnung: Kein Netz für Symbol J8 Pin 4 gefunden.
+Warnung: Kein Netz für Symbol SW2 Pin 3 gefunden.
+Warnung: Kein Netz für Symbol SW2 Pin 4 gefunden.
+Warnung: Kein Netz für Symbol J8 Pin 5 gefunden.
+Warnung: Kein Netz für Symbol J8 Pin 6 gefunden.
+Warnung: Kein Netz für Symbol J8 Pin 12 gefunden.
+Warnung: Kein Netz für Symbol J8 Pin 17 gefunden.
+Warnung: Kein Netz für Symbol SW3 Pin 4 gefunden.
+Warnung: Kein Netz für Symbol SW3 Pin 3 gefunden.
+Warnung: Kein Netz für Symbol J8 Pin 10 gefunden.
+Warnung: Kein Netz für Symbol J8 Pin 19 gefunden.
+Warnung: Kein Netz für Symbol J8 Pin 8 gefunden.
+Warnung: Kein Netz für Symbol J8 Pin 7 gefunden.
+Warnung: Kein Netz für Symbol J8 Pin 11 gefunden.
+Fehler: J8 Pad B8 nicht gefunden in CONN12_B-7004_GSW:CONN12_B-7004_GSW.
+Fehler: J8 Pad A8 nicht gefunden in CONN12_B-7004_GSW:CONN12_B-7004_GSW.
+Fehler: J8 Pad B6 nicht gefunden in CONN12_B-7004_GSW:CONN12_B-7004_GSW.
+Fehler: J8 Pad A6 nicht gefunden in CONN12_B-7004_GSW:CONN12_B-7004_GSW.
+Fehler: J8 Pad B7 nicht gefunden in CONN12_B-7004_GSW:CONN12_B-7004_GSW.
+Fehler: J8 Pad A7 nicht gefunden in CONN12_B-7004_GSW:CONN12_B-7004_GSW.
+Fehler: J8 Pad B5 nicht gefunden in CONN12_B-7004_GSW:CONN12_B-7004_GSW.
+Fehler: J8 Pad A5 nicht gefunden in CONN12_B-7004_GSW:CONN12_B-7004_GSW.
+Fehler: J8 Pad B9 nicht gefunden in CONN12_B-7004_GSW:CONN12_B-7004_GSW.
+Fehler: J8 Pad B4 nicht gefunden in CONN12_B-7004_GSW:CONN12_B-7004_GSW.
+Fehler: J8 Pad A9 nicht gefunden in CONN12_B-7004_GSW:CONN12_B-7004_GSW.
+Fehler: J8 Pad A4 nicht gefunden in CONN12_B-7004_GSW:CONN12_B-7004_GSW.
+Fehler: J8 Pad B12 nicht gefunden in CONN12_B-7004_GSW:CONN12_B-7004_GSW.
+Fehler: J8 Pad B1 nicht gefunden in CONN12_B-7004_GSW:CONN12_B-7004_GSW.
+Fehler: J8 Pad A12 nicht gefunden in CONN12_B-7004_GSW:CONN12_B-7004_GSW.
+Fehler: J8 Pad A1 nicht gefunden in CONN12_B-7004_GSW:CONN12_B-7004_GSW.
+
+
+Hinweis: Warnungen insgesamt: 36, Fehler insgesamt: 16.
