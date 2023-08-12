@@ -1,29 +1,28 @@
-"#","Reference","Qty","Value","Footprint","DNP"
-"1","C1, C2","2","22p","Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder",""
-"2","C3, C4, C5, C11, C12","5","100n","Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder",""
-"3","C6, C7, C8","3","10u","Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder",""
-"4","C9, C10","2","330p","Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder",""
-"5","J1","1","PJ-313D-B-SMT","PJ-313D-B-SMT_XKB",""
-"6","J2","1","UJC-HP-M-G-5-MSMT-TR","UJCHPMG5MSMTTR",""
-"7","J3","1","DC-005-20A","DC00520A",""
-"8","J4","1","Conn_02x03_Top_Bottom","Connector_IDC:IDC-Header_2x03_P2.54mm_Vertical",""
-"9","J5","1","Conn_02x03_Counter_Clockwise","Connector_IDC:IDC-Header_2x03_P2.54mm_Vertical",""
-"10","J6","1","Conn_01x08_Pin","Connector_Molex:Molex_SL_171971-0008_1x08_P2.54mm_Vertical",""
-"11","J7","1","Conn_01x04","Connector:FanPinHeader_1x04_P2.54mm_Vertical",""
-"12","L1","1","10u","IND_NLCV32T_TDK",""
-"13","Q1, Q3","2","BSN20","Package_TO_SOT_SMD:SOT-23",""
-"14","Q2","1","IRF7416TRPBF","SO-8_IRF741_INF",""
-"15","R1","1","100k","Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder",""
-"16","R2","1","56k","Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder",""
-"17","R3, R4, R8, R9, R10, R15, R16, R17, R18, R19","10","1k","Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder",""
-"18","R5, R20","2","1M","Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder",""
-"19","R6, R7, R21, R22, R23, R24, R25, R26, R27","9","10k","Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder",""
-"20","R11","1","270k","Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder",""
-"21","R12","1","51k","Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder",""
-"22","R13, R14","2","2k","Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder",""
-"23","SW1, SW2, SW3, SW4","4","TS-1093C-A15","SW_TS-1093C-A15_YDI",""
-"24","U1","1","ATMEGA328P-AU","digikey-footprints:TQFP-32_7x7mm",""
-"25","U2","1","LM321","Package_TO_SOT_SMD:SOT-23-5",""
-"26","U3","1","TPS62125DSG","Package_SON:WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm_ThermalVias",""
-"27","U4","1","FUSB302B10MPX","QFN50P250X250X80-15N",""
-"28","Y1","1","Crystal","Crystal:Crystal_HC49-U_Vertical",""
+#,Reference,Qty,Value,Footprint,DNP,LCSC,
+1,"C1, C2",2,22p,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,C1896,
+2,"C3, C4, C5, C11, C12",5,100n,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,C527347,
+3,"C6, C7, C8",3,10u,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,C9807,
+4,"C9, C10",2,330p,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,C5186843,
+5,J1,1,PJ-313D-B-SMT,PJ-313D-B-SMT_XKB,,C725771,
+6,J2,1,UJC-HP-M-G-5-MSMT-TR,UJCHPMG5MSMTTR,,MOUSER!,https://www.mouser.de/ProductDetail/CUI-Devices/UJC-HP-M-G-5-MSMT-TR?qs=vvQtp7zwQdNoSiAt%2Fa4qvA%3D%3D
+7,J3,1,DC-005-20A,DC00520A,,C130239,
+8,"J4, J5",1,Conn_02x03_Top_Bottom,Connector_IDC:IDC-Header_2x03_P2.54mm_Vertical,,C706893,
+10,J6,1,Conn_01x08_Pin,Connector_Molex:Molex_SL_171971-0008_1x08_P2.54mm_Vertical,,C492407,
+11,J7,1,Conn_01x04,Connector:FanPinHeader_1x04_P2.54mm_Vertical,,C2691448,
+12,L1,1,10u,IND_NLCV32T_TDK,,C295195,
+13,"Q1, Q3",2,BSN20,Package_TO_SOT_SMD:SOT-23,,C155343,
+14,Q2,1,IRF7416TRPBF,SO-8_IRF741_INF,,C3000,
+15,R1,1,100k,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,C17900,
+16,R2,1,56k,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,C18029,
+17,"R3, R4, R8, R9, R10, R15, R16, R17, R18, R19",10,1k,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,C4410,
+18,"R5, R20",2,1M,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,C17927,
+19,"R6, R7, R21, R22, R23, R24, R25, R26, R27",9,10k,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,C17902,
+20,R11,1,270k,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,C17940,
+21,R12,1,51k,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,C86344,
+22,"R13, R14",2,2k,Resistor_SMD:R_1206_3216Metric_Pad1.30x1.75mm_HandSolder,,C17944,
+23,"SW1, SW2, SW3, SW4",4,TS-1093C-A15,SW_TS-1093C-A15_YDI,,C2689824,
+24,U1,1,ATMEGA328P-AU,digikey-footprints:TQFP-32_7x7mm,,C14877,
+25,U2,1,LM321,Package_TO_SOT_SMD:SOT-23-5,,C471859,
+26,U3,1,TPS62125DSG,Package_SON:WSON-8-1EP_2x2mm_P0.5mm_EP0.9x1.6mm_ThermalVias,,C32097,Wurde auf 10-Pin geändert!
+27,U4,1,FUSB302B10MPX,QFN50P250X250X80-15N,,C891305,
+28,Y1,1,Crystal,Crystal:Crystal_HC49-U_Vertical,,C16212,
